@@ -3,9 +3,10 @@
 The repository in Harvard Dataverse contains the code, models, and metadata used for training and evaluating multi-concept dermatology models on the DermaCon-IN dataset.
 
 ---
-```
+
 ## 📁 Folder Structure
 
+```
 DermaCon-IN/
 │
 ├── checkpoints/ # Pretrained model checkpoints
