@@ -3,7 +3,7 @@
 The repository in Harvard Dataverse contains the code, models, and metadata used for training and evaluating multi-concept dermatology models on the DermaCon-IN dataset.
 
 ---
-
+```
 ## 📁 Folder Structure
 
 DermaCon-IN/
@@ -31,7 +31,7 @@ DermaCon-IN/
 ├── train_CBM_SC_MC_type1.py # Training script for CBM with SC-MC Type 1
 ├── train_CBM_SC_MC_type2.py # Training script for CBM with SC-MC Type 2
 ├── train_swin_mc.py # Training script for Swin Transformer Main-Class model
-
+```
 
 
 ---
