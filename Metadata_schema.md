@@ -31,4 +31,4 @@
 
 - All columns from `Skin_Metadata.csv` are retained as it is except for `Body_part` and `Descriptors`.
 - `Body_part` and `Descriptors` are converted into binary columns with 1 indicating presence and 0 indicating absence.
-- A stratified split of 80:20 was performed on `Skin_Metadata.csv` based on `Sub_class`
+- A stratified, subject-wise split of 80:20 was performed on `Skin_Metadata.csv` based on `Sub_class`
