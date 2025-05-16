@@ -1,11 +1,14 @@
 # DermaCon-IN: A Multi-concept Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research
 
+## 📦 Dataset Availability
+The **DermaCon-IN** dataset will be hosted on **Harvard Dataverse**.
 The repository in Harvard Dataverse contains the code, models, and metadata used for training and evaluating multi-concept dermatology models on the DermaCon-IN dataset.
 
 ---
 
 ## 📁 Folder Structure
 
+The below information is regarding the structure in the Dataverse. The dataset is loaded into 2 .zip files. Please extract into `./DATASET` before running any script.
 ```
 DermaCon-IN/
 │
@@ -57,8 +60,16 @@ DermaCon-IN/
 
 Each training script corresponds to a specific model variant. Modify the script arguments or configs inside the script as needed.
 
+Command to run the script: `python train_<name>.py`
+
 ---
 
 ## 📒 Inference
 
 Use the `Infer_CBM_MC.ipynb` and `Infer_Swin_MC.ipynb` notebooks to run inference and analyze prediction results.
+
+---
+
+## 🔖 Licensing
+This work is released under a **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  
+For full license terms, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>.
