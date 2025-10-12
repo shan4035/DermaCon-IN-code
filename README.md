@@ -1,7 +1,10 @@
 # DermaCon-IN: A Multi-concept Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research
 
+Accepted at NeurIPS 2025 main conference as a poster in Datasets \& Benchmarks Track!
+<https://neurips.cc/virtual/2025/poster/121561>
+
 ## 📦 Dataset Availability
-The **DermaCon-IN** dataset will be hosted on **Harvard Dataverse**.
+The **DermaCon-IN** dataset will be hosted on **Harvard Dataverse** (<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W7OUZM>).
 The repository in Harvard Dataverse contains the code, models, and metadata used for training and evaluating multi-concept dermatology models on the DermaCon-IN dataset.
 
 ---
@@ -73,3 +76,23 @@ Use the `Infer_CBM_MC.ipynb` and `Infer_Swin_MC.ipynb` notebooks to run inferenc
 ## 🔖 Licensing
 This work is released under a **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  
 For full license terms, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>.
+
+## 📚 Citation
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{madhumitha2025relsa,
+  title        = {DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research},
+  author       = {Shanawaj S Madarkar, Mahajabeen Madarkar, Madhumitha V, TELI PRAKASH, Konda Reddy Mopuri, Vinaykumar MV, Kota Venkata Lakshmi Sathwika, Adarsh Kasturi, Gandla Dilip Raj, Padharthi Venkata Naga Supranitha, Harsh Udai},
+  booktitle    = {Advances in Neural Information Processing Systems},
+  year         = {2025}
+}
+
+@inproceedings{madhumitha2025relsa,
+  title        = {DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research},
+  author       = {Shanawaj S Madarkar, Mahajabeen Madarkar, Madhumitha V, TELI PRAKASH, Konda Reddy Mopuri, Vinaykumar MV, Kota Venkata Lakshmi Sathwika, Adarsh Kasturi, Gandla Dilip Raj, Padharthi Venkata Naga Supranitha, Harsh Udai},
+  booktitle    = {arxiv},
+  note         = {Open Access},
+  url          = {https://arxiv.org/abs/2506.06099}
+}
