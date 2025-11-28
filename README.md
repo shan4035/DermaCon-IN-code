@@ -82,14 +82,14 @@ For full license terms, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{madhumitha2025relsa,
+@inproceedings{DermaconIN,
   title        = {DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research},
   author       = {Shanawaj S Madarkar, Mahajabeen Madarkar, Madhumitha V, TELI PRAKASH, Konda Reddy Mopuri, Vinaykumar MV, Kota Venkata Lakshmi Sathwika, Adarsh Kasturi, Gandla Dilip Raj, Padharthi Venkata Naga Supranitha, Harsh Udai},
   booktitle    = {Advances in Neural Information Processing Systems},
   year         = {2025}
 }
 
-@inproceedings{madhumitha2025relsa,
+@inproceedings{DermaconIN,
   title        = {DermaCon-IN: A Multiconcept-Annotated Dermatological Image Dataset of Indian Skin Disorders for Clinical AI Research},
   author       = {Shanawaj S Madarkar, Mahajabeen Madarkar, Madhumitha V, TELI PRAKASH, Konda Reddy Mopuri, Vinaykumar MV, Kota Venkata Lakshmi Sathwika, Adarsh Kasturi, Gandla Dilip Raj, Padharthi Venkata Naga Supranitha, Harsh Udai},
   booktitle    = {arxiv},
